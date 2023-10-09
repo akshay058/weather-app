@@ -2,11 +2,14 @@
 
 ## Screenshots
 
-![App Screenshot](/src/images/Screenshot1.jpg?raw=true "Optional Title")
+- In Degree Hot Temperature Look
+  ![App Screenshot](/src/images/Screenshot1.jpg?raw=true "Optional Title")
 
-![App Screenshot](/src/images/Screenshot2.jpg?raw=true "Optional Title")
+- In Fahrenheit Hot Temperature Look
+  ![App Screenshot](/src/images/Screenshot2.jpg?raw=true "Optional Title")
 
-![App Screenshot](/src/images/Screenshot3.jpg?raw=true "Optional Title")
+- Cold Temperature Look
+  ![App Screenshot](/src/images/Screenshot3.jpg?raw=true "Optional Title")
 
 ## Table of Contents
 

@@ -41,6 +41,8 @@ The Weather App is a simple application that allows users to check the weather f
 
 ## Live Hosting
 
+https://weatherapp-akshayjain.netlify.app/
+
 ## Getting Started
 
 ### Prerequisites

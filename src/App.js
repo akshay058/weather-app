@@ -37,6 +37,7 @@ function App() {
 
   useEffect(() => {
     fetchWeatherData();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [units]);
 
   const handleUnitsClick = (e) => {

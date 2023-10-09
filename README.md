@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+# Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Weather App Screenshot](screenshot.png)
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Weather App](#weather-app)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Contributing](#contributing)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Weather App is a simple application that allows users to check the weather for a specified location. It provides current weather data, including temperature, description, and an icon representing the weather conditions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Get current weather data for a specific location.
+- Display weather description and icon.
+- Toggle between Celsius and Fahrenheit units.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+1. Enter the name of a city in the input field.
+2. Click the "Search" button to retrieve weather data for the specified city.
+3. The app will display the current weather conditions, temperature, and an icon representing the weather.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Live Hosting
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+Before you begin, ensure you have the following requirements:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Node.js (version X.X.X)
+- npm (version X.X.X)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Follow these steps to install and run the Weather App:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repository:
 
-## Learn More
+   ```bash
+   git clone https://github.com/akshay058/weather-app.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Navigate to the project directory:
 
-### Code Splitting
+```bash
+cd weather-app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
 
-### Analyzing the Bundle Size
+3. Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm install
 
-### Making a Progressive Web App
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+4. Usage
+   To start the Weather App, run the following command:
 
-### Advanced Configuration
+```bash
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
 
-### Deployment
+- Once the app is running, open a web browser and navigate to http://localhost:3000 to access the Weather App. Enter the desired city and click the "Search" button to fetch weather data.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Contributing
 
-### `npm run build` fails to minify
+We welcome contributions from the community! If you'd like to contribute to the Weather App, please follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Fork the project.
+Create a new branch: git checkout -b feature/new-feature.
+Make your changes and commit them: git commit -m 'Add new feature'.
+Push to the branch: git push origin feature/new-feature.

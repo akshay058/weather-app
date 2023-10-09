@@ -1,6 +1,8 @@
 # Weather App
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](screenshot1.jpg)
+![Weather App Screenshot](screenshot2.jpg)
+![Weather App Screenshot](screenshot3.jpg)
 
 ## Table of Contents
 
@@ -80,7 +82,7 @@ npm start
 
 We welcome contributions from the community! If you'd like to contribute to the Weather App, please follow these steps:
 
-Fork the project.
-Create a new branch: git checkout -b feature/new-feature.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
+- Fork the project.
+- Create a new branch: git checkout -b feature/new-feature.
+- Make your changes and commit them: git commit -m 'Add new feature'.
+- Push to the branch: git push origin feature/new-feature.
